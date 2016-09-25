@@ -1,0 +1,5 @@
+*.so
+*.ko
+*.orig
+*.bak
+*.rej
